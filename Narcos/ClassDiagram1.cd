@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Beer" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAIAAAEAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Beer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cave" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAIgAIAAAAAAAAEAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Cave.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character" Collapsed="true">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAAAAgKAA=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coc" Collapsed="true">
+    <Position X="19.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Coc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAyAAARBgAAAAAgJIAAAAQIAAAIgAAQAQAAoIAEQ=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dea" Collapsed="true">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAgAAAAAAAAIAAAA=</HashCode>
+      <FileName>Dea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicIcon" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAoAgACAQIAQSAEIIEAQAUACYIEKAAKgIAAAAAABA=</HashCode>
+      <FileName>DynamicIcon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryDynamic" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAQAAAAAAAABGAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryDynamic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryStatic" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAAAAAAAAQAAAAAAAAAEgAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryStatic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flag" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Food" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAAAgAAAAA=</HashCode>
+      <FileName>Food.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gacha" Collapsed="true">
+    <Position X="13" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Gacha.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ground1" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAgAIAAAAAAAAMAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Ground1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAgAAAAABAAAAAAAAABAAAAAAAIAAABAAQAABAQAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAACAAAQA=</HashCode>
+      <FileName>Tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collectable" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pablo" Collapsed="true">
+    <Position X="6.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAICAAgAAAAAAIKAggIAAAAAQERGCoCAAgAQIAAhQQA=</HashCode>
+      <FileName>Pablo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoliceMan" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAEgAACAAAAAAAAAAA=</HashCode>
+      <FileName>PoliceMan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screens" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticIcon" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>StaticIcon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weed" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAEAAA=</HashCode>
+      <FileName>Weed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Data" Collapsed="true">
+    <Position X="21.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>DynamicIcon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Physical" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAGAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DynamicIcon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Direction_t" Collapsed="true">
+    <Position X="21.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>DynamicIcon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
