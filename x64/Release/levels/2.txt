@@ -1,0 +1,21 @@
+19
+20
+AAAAAAAAAAAAAAAAAAAA
+A                  A
+A  @             Q A
+A                  A
+A         %%       A
+A       $$         A
+A         ###      A
+A                  A
+A      & ###   $   A
+A         ###      A
+A                  A
+A      & ###   $   A
+A         ###      A
+A                  A
+A      & ###   $   A
+A         ###      A
+A                  A
+A      & ###   $ B A
+####################
