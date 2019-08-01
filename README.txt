@@ -66,10 +66,6 @@ m_dynamics – 1d vector that holds all the dynamic Icons
 m_map – a map that holds all the game objects collision functions
 
 
-Known Bugs:
-
-Collision between the main character and dynamic/static objects not always happens
-
 
 
 
